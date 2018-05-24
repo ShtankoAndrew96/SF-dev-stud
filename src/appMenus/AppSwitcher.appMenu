@@ -52,4 +52,12 @@
         <name>standard__LightningSales</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Train_App</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Train_App_Lightning</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
