@@ -180,7 +180,7 @@
         <fullName>NumberOfRelatedContacts__c</fullName>
         <externalId>false</externalId>
         <label>Number Of Related Contacts</label>
-        <precision>18</precision>
+        <precision>15</precision>
         <required>false</required>
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
